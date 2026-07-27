@@ -1,0 +1,19 @@
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Môi trường ảo
+venv/
+env/
+
+# Cấu hình IDE / Notebook
+.vscode/
+.ipynb_checkpoints/
+
+# Các file trọng số Deep Learning (Rất nặng, KHÔNG được push)
+*.pt
+*.pth
+*.h5
+*.bin
+*.safetensors
+*.ckpt
