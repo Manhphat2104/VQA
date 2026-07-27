@@ -45,4 +45,4 @@ python Evalute_B2.py
 ```bash
 streamlit run app.py
 ```
-Sau đó truy cập vào địa chỉ Local URL (thường là `http://localhost:8501`) hiện trên Terminal. Bạn có thể tải một tấm ảnh bất kỳ, gõ câu hỏi bằng tiếng Việt (ví dụ: *"Trong ảnh có bao nhiêu người?"*) và nhấn **Chạy dự đoán**.
+Sau đó truy cập vào địa chỉ Local URL (thường là `http://localhost:8501`) hiện trên Terminal. Bạn có thể tải một tấm ảnh bất kỳ, gõ câu hỏi bằng tiếng Việt và nhấn **Chạy dự đoán**.
